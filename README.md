@@ -1,4 +1,4 @@
-Meowcoin Core
+Woofcoin Core
 ==================================
 
 * Official Site - https://mewccrypto.com
